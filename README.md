@@ -1,3 +1,9 @@
+Robert Edward Evans 
+evansrobert517@gmail.com 
+evansrobert517@yahoo.com 
+adpsnake7@gmail.com 
+adpsnake812@gmail.com 
+
 # Pipe Gifts
 
 This is a pair of scripts designed to transfer files between users on a single node.
